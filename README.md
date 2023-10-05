@@ -1,7 +1,8 @@
-<h1 align="center">¡Hola! 👋, Soy Nacho</h1>
-<h3 align="center"><h3 align="center">Tengo 27 años, soy un apasionado desarrollador Full Stack Junior, listo para aprender y crecer en el mundo profesional. Me destaco en el trabajo en equipo y bajo presión. Cuento vehiculo propio.</h3></h3>
+# Perfil de Nacho
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=epiiko&label=Profile%20views&color=0e75b6&style=flat" alt="epiiko" /> </p>
+¡Hola! 👋 Soy Nacho, un desarrollador Full Stack Junior apasionado por la tecnología y la resolución de problemas. Tengo 27 años y estoy listo para aprender y crecer en el mundo profesional. Destaco en el trabajo en equipo y bajo presión, y cuento con mi propio carnet.
+
+![Profile Views](https://komarev.com/ghpvc/?username=epiiko&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
