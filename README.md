@@ -1,6 +1,6 @@
 # Perfil de Nacho
 
-¡Hola! 👋 Soy Nacho, un desarrollador Full Stack Junior apasionado por la tecnología y la resolución de problemas. Tengo 27 años y estoy listo para aprender y crecer en el mundo profesional. Destaco en el trabajo en equipo y bajo presión, y cuento con mi propio carnet.
+¡Hola! 👋 Soy Nacho, un desarrollador Full Stack Junior apasionado por la tecnología y la resolución de problemas. Tengo 27 años y estoy listo para aprender y crecer en el mundo profesional. Destaco en el trabajo en equipo y bajo presión. Me gustan los puzles y los juegos de lógica.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=epiiko&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -44,13 +44,13 @@
 ## Proyectos Destacados
 
 - **Proyecto 1**
-  - Perfil en Maquetación
+  - Proximamente
 
 - **Proyecto 2**
-  - Perfil en Maquetación
+  - Proximamente
 
 - **Proyecto 3**
-  - Perfil en Maquetación
+  - Proximamente
 
 ---
 
