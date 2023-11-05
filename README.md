@@ -40,7 +40,7 @@
 ## Proyectos Destacados
 
 - **Proyecto 1**
-  - Proximamente
+   <a href="https://github.com/Epiiko/ejerciciosJS">🔡👨‍🏫 **2ºDAW JavaScript**</a>
 
 - **Proyecto 2**
   - Proximamente
