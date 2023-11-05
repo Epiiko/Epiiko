@@ -39,8 +39,9 @@
 
 ## Proyectos Destacados
 
-- **Proyecto 1**
-   <a href="https://github.com/Epiiko/ejerciciosJS">🔡👨‍🏫 **2ºDAW JavaScript**</a>
+- **Proyecto 1** <br>
+   <a href="https://github.com/Epiiko/ejerciciosJS">🔡👨‍🏫 **2ºDAW JavaScript**</a> <br>
+   <p>Repositorio con los ejercicios y examenes de 2º de DAW en MEDAC</p>
 
 - **Proyecto 2**
   - Proximamente
